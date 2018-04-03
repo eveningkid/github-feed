@@ -15,7 +15,7 @@ github-feed --username=eveningkid --self-centered
 npm install -g github-feed
 ```
 ```
-yarn add global github-feed`
+yarn add global github-feed
 ```
 Alternative installation: `npx github-feed --username=eveningkid`.
 
