@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/screenshot.png" />
+  <img src="https://raw.githubusercontent.com/eveningkid/github-feed/master/media/screenshot.png" />
 </p>
 
 Get notified whenever something happens in someone's public github feed:
