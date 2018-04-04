@@ -1,9 +1,15 @@
 {
   "name": "github-feed",
+  "description": "Get notified whenever something happens in someone's feed",
+  "author": {
+    "name": "Arnaud Dellinger",
+    "url": "https://github.com/eveningkid"
+  },
   "version": "0.2.0",
   "bin": "./index.js",
   "main": "index.js",
   "license": "MIT",
+  "repository": "eveningkid/github-feed",
   "dependencies": {
     "@octokit/rest": "^15.2.6",
     "args-parser": "^1.1.0",
