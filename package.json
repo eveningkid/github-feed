@@ -15,5 +15,14 @@
     "args-parser": "^1.1.0",
     "chalk": "^2.3.2",
     "node-notifier": "^5.2.1"
-  }
+  },
+  "keywords": [
+    "github",
+    "notifications",
+    "feed",
+    "nodejs",
+    "cli",
+    "git",
+    "npm"
+  ]
 }
